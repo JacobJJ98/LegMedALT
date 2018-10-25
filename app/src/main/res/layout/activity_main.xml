@@ -75,14 +75,6 @@
                 android:text="A"
                 android:textSize="21dp" />
 
-            <Button
-                android:id="@+id/button16"
-                android:layout_width="45dp"
-                android:layout_height="45dp"
-                android:background="@drawable/kanpepr"
-                android:text="A"
-                android:textSize="21dp" />
-
         </TableRow>
     </TableLayout>
 
